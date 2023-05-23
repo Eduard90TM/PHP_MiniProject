@@ -1,0 +1,20 @@
+time-tracker/
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── includes/
+│   ├── db_connection.php
+│   └── functions.php
+├── templates/
+│   ├── header.php
+│   └── footer.php
+├── index.php
+├── register.php
+├── login.php
+├── dashboard.php
+├── add_hours.php
+├── view_hours.php
+├── change_data.php
+├── summary.php
+└── activity_log.php
